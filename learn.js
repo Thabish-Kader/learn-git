@@ -5,3 +5,4 @@ console.log("Auth fixed");
 console.log("ui fixed");
 console.log("server fixed");
 console.log("dep fixed");
+console.log("thabish");
